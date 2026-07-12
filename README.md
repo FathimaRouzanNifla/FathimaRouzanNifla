@@ -87,43 +87,197 @@
 
 ## 🛠️ Technical Arsenal
 
-### 💻 Frontend Engineering
+<!-- Frontend Engineering -->
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=563D7C" />
+  <h3>
+    <img src="https://cdn-icons-png.flaticon.com/512/1042/1042993.png" width="30" style="vertical-align: middle;" />
+    Frontend Engineering
+  </h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/html-icon.svg" alt="HTML5" width="65" height="65" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS3" width="65" height="65" />
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="Tailwind" width="65" height="65" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap" width="65" height="65" />
+        <br>Bootstrap
+      </td>
+    </tr>
+  </table>
 </div>
 
-### ⚙️ Backend Architecture
+<br>
+
+<!-- Backend Architecture -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=777BB4" />
+  <h3>
+    <img src="https://cdn-icons-png.flaticon.com/512/2991/2991365.png" width="30" style="vertical-align: middle;" />
+    Backend Architecture
+  </h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Node.js" width="65" height="65" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Express" width="65" height="65" />
+        <br>Express
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="PHP" width="65" height="65" />
+        <br>PHP
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="65" height="65" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="65" height="65" />
+        <br>C
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 🗄️ Database Solutions
+<br>
+
+<!-- Database Solutions -->
 <div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=005C84" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=FFCA28" />
+  <h3>
+    <img src="https://cdn-icons-png.flaticon.com/512/1047/1047557.png" width="30" style="vertical-align: middle;" />
+    Database Solutions
+  </h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="65" height="65" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="65" height="65" />
+        <br>Firebase
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="65" height="65" />
+        <br>PostgreSQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" width="65" height="65" />
+        <br>Redis
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite" width="65" height="65" />
+        <br>SQLite
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 🎨 Design & Prototyping
+<br>
+
+<!-- Design & Prototyping -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=F24E1E" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=31A8FF" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=FF9A00" />
+  <h3>
+    <img src="https://cdn-icons-png.flaticon.com/512/2917/2917261.png" width="30" style="vertical-align: middle;" />
+    Design & Prototyping
+  </h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="Figma" width="65" height="65" />
+        <br>Figma
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Photoshop" width="65" height="65" />
+        <br>Photoshop
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-3.svg" alt="Illustrator" width="65" height="65" />
+        <br>Illustrator
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="Adobe XD" width="65" height="65" />
+        <br>Adobe XD
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/invision-1.svg" alt="InVision" width="65" height="65" />
+        <br>InVision
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/sketch-2.svg" alt="Sketch" width="65" height="65" />
+        <br>Sketch
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 🛠️ Development Tools
+<br>
+
+<!-- Development Tools -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" />
+  <h3>
+    <img src="https://cdn-icons-png.flaticon.com/512/1508/1508759.png" width="30" style="vertical-align: middle;" />
+    Development Tools
+  </h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+        <br>AWS
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="65" height="65" />
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="65" height="65" />
+        <br>Postman
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="65" height="65" />
+        <br>Docker
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.worldvectorlogo.com/logos/jenkins.svg" alt="Jenkins" width="65" height="65" />
+        <br>Jenkins
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
