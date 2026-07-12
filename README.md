@@ -1,10 +1,12 @@
 <div align="center">
   
-  <!-- Animated Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,3,5,6,10,11,13,14,17,18,20,22,24,26,27,28,29&height=300&section=header&text=Fathima%20Rouzan%20Nifla&fontSize=80&fontColor=fff&animation=fadeIn" width="100%" />
+  <!-- Animated Gradient Banner with Name Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,3,5,6,10,11,13,14,17,18,20,22,24,26,27,28,29&height=300&section=header&text=Fathima%20Rouzan%20Nifla&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%" />
   
-  <!-- Animated Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=700&height=60&lines=✦+Software+Engineer+✦;✦+UI%2FUX+Designer+✦;✦+Full-Stack+Developer+✦;✦+Creative+Problem+Solver+✦;✦+Design+Enthusiast+✦" alt="Typing SVG" />
+  <br><br>
+  
+  <!-- Fixed Typing SVG - Using proper markdown image syntax -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=700&height=70&lines=✦+Software+Engineer+✦;✦+UI%2FUX+Designer+✦;✦+Full-Stack+Developer+✦;✦+Creative+Problem+Solver+✦;✦+Design+Enthusiast+✦" alt="Typing SVG Animation" />
   
   <br><br>
   
