@@ -1,17 +1,22 @@
 <div align="center">
   
-  <!-- Animated Gradient Banner with Name Animation -->
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,3,5,6,10,11,13,14,17,18,20,22,24,26,27,28,29&height=300&section=header&text=Fathima%20Rouzan%20Nifla&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%" />
+  <!-- Modern Animated Header with Glowing Effect -->
+  <div style="position: relative; width: 100%;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27,29&height=250&section=header&text=Fathima%20Rouzan%20Nifla&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+  </div>
+  
+  <!-- Glowing Badge Line -->
+  <div style="margin-top: -20px; margin-bottom: 20px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3500&pause=500&color=6C63FF&center=true&vCenter=true&width=750&height=60&lines=%E2%9C%A6+Software+Engineer+%E2%9C%A6;%E2%9C%A6+UI%2FUX+Designer+%E2%9C%A6;%E2%9C%A6+Full-Stack+Developer+%E2%9C%A6;%E2%9C%A6+Creative+Problem+Solver+%E2%9C%A6;%E2%9C%A6+Design+Enthusiast+%E2%9C%A6" alt="Typing SVG Animation" />
+  </div>
+  
+  <!-- Animated Underline -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="60%" />
   
   <br><br>
   
-  <!-- Fixed Typing SVG - Using proper markdown image syntax -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=700&height=70&lines=✦+Software+Engineer+✦;✦+UI%2FUX+Designer+✦;✦+Full-Stack+Developer+✦;✦+Creative+Problem+Solver+✦;✦+Design+Enthusiast+✦" alt="Typing SVG Animation" />
-  
-  <br><br>
-  
-  <!-- Professional Navigation Badges -->
-  <p align="center">
+  <!-- Professional Navigation Buttons with Hover Animation -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="https://fathimarouzannifla.github.io/my-portfolio/">
       <img src="https://img.shields.io/badge/🚀_Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6C63FF" />
     </a>
@@ -27,12 +32,17 @@
     <a href="https://github.com/FathimaRouzanNifla">
       <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
     </a>
-  </p>
+  </div>
   
-  <!-- Engagement Badges -->
-  <img src="https://komarev.com/ghpvc/?username=FathimaRouzanNifla&style=flat-square&color=6C63FF&label=👀+Profile+Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/FathimaRouzanNifla?style=flat-square&color=6C63FF&label=🌟+Followers" />
-  <img src="https://img.shields.io/github/stars/FathimaRouzanNifla?style=flat-square&color=6C63FF&label=⭐+Stars" />
+  <br>
+  
+  <!-- Stats Badges -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <img src="https://komarev.com/ghpvc/?username=FathimaRouzanNifla&style=flat-square&color=6C63FF&label=👀+Profile+Views" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/FathimaRouzanNifla?style=flat-square&color=6C63FF&label=🌟+Followers" />
+    <img src="https://img.shields.io/github/stars/FathimaRouzanNifla?style=flat-square&color=6C63FF&label=⭐+Stars" />
+    <img src="https://img.shields.io/badge/🏆_Top_1%-6C63FF?style=flat-square" />
+  </div>
   
 </div>
 
