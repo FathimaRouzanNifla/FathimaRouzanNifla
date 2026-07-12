@@ -15,7 +15,7 @@
   
   <br><br>
   
-  <!-- Professional Navigation Buttons with Hover Animation -->
+  <!-- Professional Navigation Buttons -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <a href="https://fathimarouzannifla.github.io/my-portfolio/">
       <img src="https://img.shields.io/badge/🚀_Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6C63FF" />
@@ -186,18 +186,6 @@
         <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="65" height="65" />
         <br>Firebase
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="65" height="65" />
-        <br>PostgreSQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis" width="65" height="65" />
-        <br>Redis
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite" width="65" height="65" />
-        <br>SQLite
-      </td>
     </tr>
   </table>
 </div>
@@ -225,18 +213,6 @@
         <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-3.svg" alt="Illustrator" width="65" height="65" />
         <br>Illustrator
       </td>
-      <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" alt="Adobe XD" width="65" height="65" />
-        <br>Adobe XD
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/invision-1.svg" alt="InVision" width="65" height="65" />
-        <br>InVision
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/sketch-2.svg" alt="Sketch" width="65" height="65" />
-        <br>Sketch
-      </td>
     </tr>
   </table>
 </div>
@@ -257,10 +233,6 @@
         <br>GitHub
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-        <br>AWS
-      </td>
-      <td align="center" width="96">
         <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="65" height="65" />
         <br>VS Code
       </td>
@@ -269,12 +241,8 @@
         <br>Postman
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="65" height="65" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.worldvectorlogo.com/logos/jenkins.svg" alt="Jenkins" width="65" height="65" />
-        <br>Jenkins
+        <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="65" height="65" />
+        <br>Git
       </td>
     </tr>
   </table>
