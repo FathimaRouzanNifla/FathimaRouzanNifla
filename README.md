@@ -7,7 +7,7 @@
   
   <!-- Glowing Badge Line -->
   <div style="margin-top: -20px; margin-bottom: 20px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3500&pause=500&color=6C63FF&center=true&vCenter=true&width=750&height=60&lines=%E2%9C%A6+Software+Engineer+%E2%9C%A6;%E2%9C%A6+UI%2FUX+Designer+%E2%9C%A6;%E2%9C%A6+Full-Stack+Developer+%E2%9C%A6;%E2%9C%A6+Creative+Problem+Solver+%E2%9C%A6;%E2%9C%A6+Design+Enthusiast+%E2%9C%A6" alt="Typing SVG Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3500&pause=500&color=6C63FF&center=true&vCenter=true&width=750&height=60&lines=%E2%9C%A6+Software+Engineer+%E2%9C%A6;%E2%9C%A6+UI%2FUX+Designer+%E2%9C%A6;%E2%9C%A6+Full-Stack+Developer+%E2%9C%A6" alt="Typing SVG Animation" />
   </div>
   
   <!-- Animated Underline -->
