@@ -1,205 +1,381 @@
 <div align="center">
-
-<img src="./assets/banner.svg" width="100%" alt="Fathima Rouzan Nifla - Software Engineer and UI/UX Designer" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&duration=3200&pause=900&color=F3D9A4&center=true&vCenter=true&width=760&height=50&lines=Crafting+elegant+interfaces+with+solid+engineering;Where+classic+design+meets+modern+technology;Great+software+is+invisible.+It+just+feels+right." alt="Typing animation" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://fathimarouzannifla.github.io/my-portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fathima-rouzan-nifla-a513b1282/)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/niflaremiez)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nifla7382@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FathimaRouzanNifla)
-
-<img src="https://komarev.com/ghpvc/?username=FathimaRouzanNifla&style=flat-square&color=6C63FF&label=Profile+Views" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/FathimaRouzanNifla?style=flat-square&color=6C63FF&label=Followers" alt="Followers" />
-<img src="https://img.shields.io/github/stars/FathimaRouzanNifla?style=flat-square&color=6C63FF&label=Stars" alt="Stars" />
-
-<img src="./assets/divider.svg" width="70%" alt="" />
-
+  
+  <!-- Modern Animated Header with Glowing Effect -->
+  <div style="position: relative; width: 100%;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27,29&height=250&section=header&text=Fathima%20Rouzan%20Nifla&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%" />
+  </div>
+  
+  <!-- Glowing Badge Line -->
+  <div style="margin-top: -20px; margin-bottom: 20px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3500&pause=500&color=6C63FF&center=true&vCenter=true&width=750&height=60&lines=%E2%9C%A6+Software+Engineer+%E2%9C%A6;%E2%9C%A6+UI%2FUX+Designer+%E2%9C%A6;%E2%9C%A6+Full-Stack+Developer+%E2%9C%A6" alt="Typing SVG Animation" />
+  </div>
+  
+  <!-- Animated Underline -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="60%" />
+  
+  <br><br>
+  
+  <!-- Professional Navigation Buttons -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <a href="https://fathimarouzannifla.github.io/my-portfolio/">
+      <img src="https://img.shields.io/badge/🚀_Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6C63FF" />
+    </a>
+    <a href="https://www.linkedin.com/in/fathima-rouzan-nifla-a513b1282/">
+      <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    </a>
+    <a href="https://www.behance.net/niflaremiez">
+      <img src="https://img.shields.io/badge/🎨_Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white&labelColor=1769FF" />
+    </a>
+    <a href="mailto:nifla7382@gmail.com">
+      <img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+    </a>
+    <a href="https://github.com/FathimaRouzanNifla">
+      <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" />
+    </a>
+  </div>
+  
+  <br>
+  
+  <!-- Stats Badges -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+    <img src="https://komarev.com/ghpvc/?username=FathimaRouzanNifla&style=flat-square&color=6C63FF&label=👀+Profile+Views" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/FathimaRouzanNifla?style=flat-square&color=6C63FF&label=🌟+Followers" />
+    <img src="https://img.shields.io/github/stars/FathimaRouzanNifla?style=flat-square&color=6C63FF&label=⭐+Stars" />
+    <img src="https://img.shields.io/badge/🏆_Top_1%-6C63FF?style=flat-square" />
+  </div>
+  
 </div>
 
-## ✦ About Me
+---
+
+<!-- Professional Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+## 👩‍💻 About Me
 
 <div align="center">
-
-<table>
-<tr>
-<td width="62%" valign="top">
-
-I'm a **Software Engineer** and **UI/UX Designer** who blends visual craft with solid engineering. I design interfaces in Figma, then build them end to end, from responsive front ends to APIs and databases, so the finished product feels as good as it looks.
-
-> *"Great software is invisible. It should feel intuitive, perform seamlessly, and solve problems elegantly."*
-
-![Innovation](https://img.shields.io/badge/Innovation_Driven-6C63FF?style=for-the-badge)
-![Detail](https://img.shields.io/badge/Detail_Oriented-8B5CF6?style=for-the-badge)
-![Goal](https://img.shields.io/badge/Goal_Getter-C04BD6?style=for-the-badge)
-
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2600&pause=700&color=B9A8FF&center=false&vCenter=true&multiline=true&width=300&height=150&lines=%24+whoami;Fathima+Rouzan+Nifla;%24+role;Engineer+%2B+Designer;%24+focus;Clean+code+%C2%B7+Great+UX" alt="Terminal animation" />
-
-</td>
-</tr>
-</table>
-
+  <table>
+    <tr>
+      <td width="60%" valign="top">
+        <h3>✨ Innovating at the Intersection of Design & Development</h3>
+        <p align="justify">
+          I'm a <b>Software Engineer</b> and <b>UI/UX Designer</b> who crafts exceptional digital experiences 
+          that blend <b>visual excellence</b> with <b>technical robustness</b>. With expertise spanning 
+          full-stack development and user-centered design, I create products that are not just functional, 
+          but truly <b>delightful</b> to use.
+        </p>
+        <br>
+        <p align="justify">
+          <b>🎯 Core Philosophy:</b> <i>"Great software is invisible — it should feel intuitive, 
+          perform seamlessly, and solve problems elegantly."</i>
+        </p>
+        <br>
+        <p align="center">
+          <img src="https://img.shields.io/badge/💡_Innovation_Driven-6C63FF?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/🎯_Detail_Oriented-6C63FF?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/🚀_Goal_Getter-6C63FF?style=for-the-badge" />
+        </p>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding animation" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
+---
 
-## ✦ Tech Stack
+## 🛠️ Technical Arsenal
 
+<!-- Frontend Engineering -->
 <div align="center">
-
-| | |
-|:--|:--|
-| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" alt="Frontend" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,php,py,java,c" alt="Backend" /> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="Databases" /> |
-| **Design** | <img src="https://skillicons.dev/icons?i=figma,ps,ai" alt="Design" /> |
-| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" alt="Tools" /> |
-
+  <h3>
+    <img src="https://cdn-icons-png.flaticon.com/512/1042/1042993.png" width="30" style="vertical-align: middle;" />
+    Frontend Engineering
+  </h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="65" height="65" />
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="65" height="65" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="65" height="65" />
+        <br>Bootstrap
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
+<br>
 
-## ✦ Featured Projects
-
+<!-- Backend Architecture -->
 <div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Portfolio Website
-A responsive portfolio showcasing my work, design approach, and technical skills.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[**Live Demo ↗**](https://fathimarouzannifla.github.io/my-portfolio/) &nbsp;·&nbsp; [**Source ↗**](https://github.com/FathimaRouzanNifla/my-portfolio)
-
-</td>
-<td width="50%" valign="top">
-
-### ✅ Task Management Suite
-A full-stack task manager with CRUD operations, user authentication, and real-time updates.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-[**Live Demo ↗**](https://github.com/FathimaRouzanNifla?tab=repositories) &nbsp;·&nbsp; [**Source ↗**](https://github.com/FathimaRouzanNifla?tab=repositories)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 👥 Employee Management Platform
-A modern HR solution with intuitive dashboards, employee analytics, and streamlined workflows.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-[**Live Demo ↗**](https://github.com/FathimaRouzanNifla?tab=repositories) &nbsp;·&nbsp; [**Source ↗**](https://github.com/FathimaRouzanNifla?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 Financial App Design
-A mobile banking concept focused on accessibility, clear visual hierarchy, and seamless UX.
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-
-[**View on Behance ↗**](https://www.behance.net/niflaremiez)
-
-</td>
-</tr>
-</table>
-
+  <h3>
+    <img src="https://cdn-icons-png.flaticon.com/512/2991/2991365.png" width="30" style="vertical-align: middle;" />
+    Backend Architecture
+  </h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="65" height="65" />
+        <br>Express
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
+        <br>PHP
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="65" height="65" />
+        <br>C
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
+<br>
 
-## ✦ Principles
-
+<!-- Database Solutions -->
 <div align="center">
-
-| ✨ User-Centered | ⚡ Clean Code | 🚀 Performance | ♿ Accessibility |
-|:---:|:---:|:---:|:---:|
-| Empathy-driven design that puts users first | Maintainable, scalable, well-architected | Optimized for speed and efficiency | Inclusive design for everyone |
-
+  <h3>
+    <img src="https://cdn-icons-png.flaticon.com/512/1047/1047557.png" width="30" style="vertical-align: middle;" />
+    Database Solutions
+  </h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
+        <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="65" height="65" />
+        <br>Firebase
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
+<br>
 
-## ✦ Workflow
+<!-- Design & Prototyping -->
+<div align="center">
+  <h3>
+    <img src="https://cdn-icons-png.flaticon.com/512/2917/2917261.png" width="30" style="vertical-align: middle;" />
+    Design & Prototyping
+  </h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" />
+        <br>Figma
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="65" height="65" />
+        <br>Photoshop
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Illustrator" width="65" height="65" />
+        <br>Illustrator
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Development Tools -->
+<div align="center">
+  <h3>
+    <img src="https://cdn-icons-png.flaticon.com/512/1508/1508759.png" width="30" style="vertical-align: middle;" />
+    Development Tools
+  </h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="65" height="65" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="65" height="65" />
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="65" height="65" />
+        <br>Postman
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+        <br>Git
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px;">
+        <h3 style="color: white;">🌐 Portfolio Website</h3>
+        <p style="color: white;">A visually stunning, responsive portfolio that showcases my work, design philosophy, and technical expertise.</p>
+        <br>
+        <p>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        </p>
+        <br>
+        <p>
+          <a href="https://fathimarouzannifla.github.io/my-portfolio/">
+            <img src="https://img.shields.io/badge/🚀_Live_Demo-ffffff?style=for-the-badge&logo=vercel&logoColor=6C63FF" />
+          </a>
+          <a href="https://github.com/FathimaRouzanNifla/my-portfolio">
+            <img src="https://img.shields.io/badge/📂_Source_Code-ffffff?style=for-the-badge&logo=github&logoColor=6C63FF" />
+          </a>
+        </p>
+      </td>
+      <td width="50%" valign="top" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px;">
+        <h3 style="color: white;">✅ Task Management Suite</h3>
+        <p style="color: white;">A full-stack task management system with CRUD operations, user authentication, and real-time updates.</p>
+        <br>
+        <p>
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+        </p>
+        <br>
+        <p>
+          <a href="#">
+            <img src="https://img.shields.io/badge/🚀_Live_Demo-ffffff?style=for-the-badge&logo=vercel&logoColor=6C63FF" />
+          </a>
+          <a href="#">
+            <img src="https://img.shields.io/badge/📂_Source_Code-ffffff?style=for-the-badge&logo=github&logoColor=6C63FF" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px;">
+        <h3 style="color: white;">👥 Employee Management Platform</h3>
+        <p style="color: white;">A modern HR management solution with intuitive dashboards, employee analytics, and seamless workflows.</p>
+        <br>
+        <p>
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+        </p>
+        <br>
+        <p>
+          <a href="#">
+            <img src="https://img.shields.io/badge/🚀_Live_Demo-ffffff?style=for-the-badge&logo=vercel&logoColor=6C63FF" />
+          </a>
+          <a href="#">
+            <img src="https://img.shields.io/badge/📂_Source_Code-ffffff?style=for-the-badge&logo=github&logoColor=6C63FF" />
+          </a>
+        </p>
+      </td>
+      <td width="50%" valign="top" style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 20px; border-radius: 15px;">
+        <h3 style="color: white;">🎨 Financial App Design</h3>
+        <p style="color: white;">A premium mobile banking concept with focus on accessibility, visual hierarchy, and seamless UX.</p>
+        <br>
+        <p>
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+          <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+        </p>
+        <br>
+        <p>
+          <a href="#">
+            <img src="https://img.shields.io/badge/🎨_View_Design-ffffff?style=for-the-badge&logo=behance&logoColor=6C63FF" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
+---
+
+## 🎯 Design & Development Philosophy
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%" style="padding: 20px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/4248/4248447.png" width="70" />
+        <h4>✨ User-Centered</h4>
+        <p><i>Empathy-driven design that puts users first</i></p>
+      </td>
+      <td align="center" width="25%" style="padding: 20px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/3775/3775347.png" width="70" />
+        <h4>⚡ Clean Code</h4>
+        <p><i>Maintainable, scalable, and well-architected</i></p>
+      </td>
+      <td align="center" width="25%" style="padding: 20px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/3820/3820281.png" width="70" />
+        <h4>🚀 Performance</h4>
+        <p><i>Optimized for speed and efficiency</i></p>
+      </td>
+      <td align="center" width="25%" style="padding: 20px;">
+        <img src="https://cdn-icons-png.flaticon.com/512/755/755830.png" width="70" />
+        <h4>♿ Accessibility</h4>
+        <p><i>Inclusive design for everyone</i></p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🔄 Development Workflow
+
+<div align="center">
+  
 ```mermaid
 graph LR
-    A[Research] --> B[Planning]
-    B --> C[Wireframing]
-    C --> D[Design]
-    D --> E[Development]
-    E --> F[Testing]
-    F --> G[Deploy]
-    G --> H[Iterate]
+    A[🔍 Research] --> B[📋 Planning]
+    B --> C[✏️ Wireframing]
+    C --> D[🎨 Design]
+    D --> E[💻 Development]
+    E --> F[🧪 Testing]
+    F --> G[🚀 Deploy]
+    G --> H[📊 Iterate]
     H --> A
-
-    style A fill:#6C63FF,stroke:#f3d9a4,color:#fff
-    style B fill:#7a5cf5,stroke:#f3d9a4,color:#fff
-    style C fill:#8b5cf6,stroke:#f3d9a4,color:#fff
-    style D fill:#9d52e0,stroke:#f3d9a4,color:#fff
-    style E fill:#b04bd6,stroke:#f3d9a4,color:#fff
-    style F fill:#c04bd6,stroke:#f3d9a4,color:#fff
-    style G fill:#a855f7,stroke:#f3d9a4,color:#fff
-    style H fill:#6C63FF,stroke:#f3d9a4,color:#fff
-```
-
-</div>
-
-<div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
-
-## ✦ GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FathimaRouzanNifla&show_icons=true&theme=tokyonight&hide_border=true&title_color=F3D9A4&icon_color=6C63FF&bg_color=0D1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimaRouzanNifla&layout=compact&theme=tokyonight&hide_border=true&title_color=F3D9A4&bg_color=0D1117" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FathimaRouzanNifla&bg_color=0D1117&color=F3D9A4&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" width="100%" alt="Contribution graph" />
-
-<br/><br/>
-
-<!-- Snake animation: needs the workflow in .github/workflows/snake.yml (see notes) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FathimaRouzanNifla/FathimaRouzanNifla/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FathimaRouzanNifla/FathimaRouzanNifla/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/FathimaRouzanNifla/FathimaRouzanNifla/output/github-snake.svg" width="100%" />
-</picture>
-
-</div>
-
-<div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
-
-## ✦ Let's Connect
-
-<div align="center">
-
-I'm open to collaborations, freelance projects, and new opportunities.
-Reach out through any link above, or write to **nifla7382@gmail.com**.
-
-<br/>
-
-<img src="./assets/footer.svg" width="100%" alt="Thank you for visiting" />
-
-</div>
