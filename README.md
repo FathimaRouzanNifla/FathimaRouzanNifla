@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27,29&height=250&section=header&text=Fathima%20Rouzan%20Nifla&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20UI%2FUX%20Designer&descAlignY=58&descSize=20" width="100%" alt="Header" />
+<img src="./assets/banner.svg" width="100%" alt="Fathima Rouzan Nifla - Software Engineer and UI/UX Designer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3500&pause=800&color=6C63FF&center=true&vCenter=true&width=700&height=50&lines=Software+Engineer;UI%2FUX+Designer;Full-Stack+Developer;Building+intuitive+digital+experiences" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&size=22&duration=3200&pause=900&color=F3D9A4&center=true&vCenter=true&width=760&height=50&lines=Crafting+elegant+interfaces+with+solid+engineering;Where+classic+design+meets+modern+technology;Great+software+is+invisible.+It+just+feels+right." alt="Typing animation" />
 
 <br/>
 
@@ -16,27 +16,40 @@
 <img src="https://img.shields.io/github/followers/FathimaRouzanNifla?style=flat-square&color=6C63FF&label=Followers" alt="Followers" />
 <img src="https://img.shields.io/github/stars/FathimaRouzanNifla?style=flat-square&color=6C63FF&label=Stars" alt="Stars" />
 
+<img src="./assets/divider.svg" width="70%" alt="" />
+
 </div>
 
-<br/>
+## ✦ About Me
 
-## 👩‍💻 About Me
+<div align="center">
+
+<table>
+<tr>
+<td width="62%" valign="top">
 
 I'm a **Software Engineer** and **UI/UX Designer** who blends visual craft with solid engineering. I design interfaces in Figma, then build them end to end, from responsive front ends to APIs and databases, so the finished product feels as good as it looks.
 
 > *"Great software is invisible. It should feel intuitive, perform seamlessly, and solve problems elegantly."*
 
-<div align="center">
+![Innovation](https://img.shields.io/badge/Innovation_Driven-6C63FF?style=for-the-badge)
+![Detail](https://img.shields.io/badge/Detail_Oriented-8B5CF6?style=for-the-badge)
+![Goal](https://img.shields.io/badge/Goal_Getter-C04BD6?style=for-the-badge)
 
-![Innovation Driven](https://img.shields.io/badge/Innovation_Driven-6C63FF?style=for-the-badge)
-![Detail Oriented](https://img.shields.io/badge/Detail_Oriented-6C63FF?style=for-the-badge)
-![Goal Getter](https://img.shields.io/badge/Goal_Getter-6C63FF?style=for-the-badge)
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2600&pause=700&color=B9A8FF&center=false&vCenter=true&multiline=true&width=300&height=150&lines=%24+whoami;Fathima+Rouzan+Nifla;%24+role;Engineer+%2B+Designer;%24+focus;Clean+code+%C2%B7+Great+UX" alt="Terminal animation" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
 
-## 🛠️ Tech Stack
+## ✦ Tech Stack
 
 <div align="center">
 
@@ -50,9 +63,9 @@ I'm a **Software Engineer** and **UI/UX Designer** who blends visual craft with 
 
 </div>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
 
-## 🚀 Featured Projects
+## ✦ Featured Projects
 
 <div align="center">
 
@@ -67,7 +80,7 @@ A responsive portfolio showcasing my work, design approach, and technical skills
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[**Live Demo**](https://fathimarouzannifla.github.io/my-portfolio/) · [**Source Code**](https://github.com/FathimaRouzanNifla/my-portfolio)
+[**Live Demo ↗**](https://fathimarouzannifla.github.io/my-portfolio/) &nbsp;·&nbsp; [**Source ↗**](https://github.com/FathimaRouzanNifla/my-portfolio)
 
 </td>
 <td width="50%" valign="top">
@@ -79,7 +92,7 @@ A full-stack task manager with CRUD operations, user authentication, and real-ti
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-[**Live Demo**](https://github.com/FathimaRouzanNifla?tab=repositories) · [**Source Code**](https://github.com/FathimaRouzanNifla?tab=repositories)
+[**Live Demo ↗**](https://github.com/FathimaRouzanNifla?tab=repositories) &nbsp;·&nbsp; [**Source ↗**](https://github.com/FathimaRouzanNifla?tab=repositories)
 
 </td>
 </tr>
@@ -92,7 +105,7 @@ A modern HR solution with intuitive dashboards, employee analytics, and streamli
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-[**Live Demo**](https://github.com/FathimaRouzanNifla?tab=repositories) · [**Source Code**](https://github.com/FathimaRouzanNifla?tab=repositories)
+[**Live Demo ↗**](https://github.com/FathimaRouzanNifla?tab=repositories) &nbsp;·&nbsp; [**Source ↗**](https://github.com/FathimaRouzanNifla?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
@@ -103,7 +116,7 @@ A mobile banking concept focused on accessibility, clear visual hierarchy, and s
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
 
-[**View on Behance**](https://www.behance.net/niflaremiez)
+[**View on Behance ↗**](https://www.behance.net/niflaremiez)
 
 </td>
 </tr>
@@ -111,9 +124,9 @@ A mobile banking concept focused on accessibility, clear visual hierarchy, and s
 
 </div>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
 
-## 🎯 Design & Development Principles
+## ✦ Principles
 
 <div align="center">
 
@@ -123,9 +136,9 @@ A mobile banking concept focused on accessibility, clear visual hierarchy, and s
 
 </div>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
 
-## 🔄 Workflow
+## ✦ Workflow
 
 <div align="center">
 
@@ -140,35 +153,53 @@ graph LR
     G --> H[Iterate]
     H --> A
 
-    style A fill:#6C63FF,stroke:#6C63FF,color:#fff
-    style B fill:#6C63FF,stroke:#6C63FF,color:#fff
-    style C fill:#6C63FF,stroke:#6C63FF,color:#fff
-    style D fill:#6C63FF,stroke:#6C63FF,color:#fff
-    style E fill:#6C63FF,stroke:#6C63FF,color:#fff
-    style F fill:#6C63FF,stroke:#6C63FF,color:#fff
-    style G fill:#6C63FF,stroke:#6C63FF,color:#fff
-    style H fill:#6C63FF,stroke:#6C63FF,color:#fff
+    style A fill:#6C63FF,stroke:#f3d9a4,color:#fff
+    style B fill:#7a5cf5,stroke:#f3d9a4,color:#fff
+    style C fill:#8b5cf6,stroke:#f3d9a4,color:#fff
+    style D fill:#9d52e0,stroke:#f3d9a4,color:#fff
+    style E fill:#b04bd6,stroke:#f3d9a4,color:#fff
+    style F fill:#c04bd6,stroke:#f3d9a4,color:#fff
+    style G fill:#a855f7,stroke:#f3d9a4,color:#fff
+    style H fill:#6C63FF,stroke:#f3d9a4,color:#fff
 ```
 
 </div>
 
-<br/>
+<div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
 
-## 📊 GitHub Stats
+## ✦ GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FathimaRouzanNifla&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF&bg_color=0D1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimaRouzanNifla&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF&bg_color=0D1117" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=FathimaRouzanNifla&show_icons=true&theme=tokyonight&hide_border=true&title_color=F3D9A4&icon_color=6C63FF&bg_color=0D1117" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FathimaRouzanNifla&layout=compact&theme=tokyonight&hide_border=true&title_color=F3D9A4&bg_color=0D1117" alt="Top languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FathimaRouzanNifla&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution graph" />
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FathimaRouzanNifla&bg_color=0D1117&color=F3D9A4&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true" width="100%" alt="Contribution graph" />
+
+<br/><br/>
+
+<!-- Snake animation: needs the workflow in .github/workflows/snake.yml (see notes) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FathimaRouzanNifla/FathimaRouzanNifla/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FathimaRouzanNifla/FathimaRouzanNifla/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/FathimaRouzanNifla/FathimaRouzanNifla/output/github-snake.svg" width="100%" />
+</picture>
 
 </div>
 
+<div align="center"><img src="./assets/divider.svg" width="70%" alt="" /></div>
+
+## ✦ Let's Connect
+
+<div align="center">
+
+I'm open to collaborations, freelance projects, and new opportunities.
+Reach out through any link above, or write to **nifla7382@gmail.com**.
+
 <br/>
 
-## 🤝 Let's Connect
+<img src="./assets/footer.svg" width="100%" alt="Thank you for visiting" />
 
-I'm open to collaborations, freelance projects, and new opportunities. Reach out through any of the links above, or email me at **nifla7382@gmail.com**.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,27,29&height=120&section=footer" width="100%" alt="Footer" />
+</div>
